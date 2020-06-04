@@ -19,3 +19,7 @@ Apache Kafka: A Distributed Streaming Platform
 
 6. switch window to consumer you can see message<br>
 <img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_c.PNG" width="500">
+
+© 2017 Apache Software Foundation under the terms of the Apache License v2.
+Apache Kafka, Kafka, and the Kafka logo are either registered trademarks or trademarks of The Apache Software Foundation in the United States and other countries.
+https://kafka.apache.org/
