@@ -10,8 +10,6 @@ __________________________________
 <img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_z.PNG" width="400">
 2. run kafka 1,2,3
 <img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_k.PNG" width="400">
-<img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_k1.PNG" width="400">
-<img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_k2.PNG" width="400">
 3. run consumer
 <img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_c.PNG" width="400">
 4. run producer
