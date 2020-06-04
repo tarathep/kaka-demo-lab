@@ -11,8 +11,6 @@ __________________________________
 2. run kafka 1,2,3
 <img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_k.PNG" width="400">
 3. run consumer
-<img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_c.PNG" width="400">
 4. run producer
-<img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_p.PNG" width="400">
 5. insert message into producer and publish
 6. swith window you can see message at cosumer
