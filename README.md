@@ -19,4 +19,4 @@ __________________________________
 
 5. insert message into producer and publish<br>
 
-6. swith window you can see message at cosumer<br>
+6. switch window to consumer you can see message
