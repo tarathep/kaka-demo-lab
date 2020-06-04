@@ -1,6 +1,8 @@
 # kaka-demo-lab
 
 DEMO STEP KAKFA SCRIPT
+<br>
+Apache Kafka: A Distributed Streaming Platform
 _______________________________
 1. run zookeeper
 2. run kafka 1,2,3
