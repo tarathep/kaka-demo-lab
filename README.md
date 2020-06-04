@@ -3,10 +3,7 @@ Apache Kafka: A Distributed Streaming Platform
 
 <img src="https://kafka.apache.org/images/kafka_diagram.png" width="400">
 
-<h3>DEMO STEP KAKFA SCRIPT</h3>
-
-__________________________________
-
+# Step Run bat script
 1. run zookeeper<br>
 <img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_z.PNG" width="500">
 
