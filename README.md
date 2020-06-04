@@ -18,5 +18,7 @@ __________________________________
 4. run producer<br>
 
 5. insert message into producer and publish<br>
+<img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_p.PNG" width="500">
 
-6. switch window to consumer you can see message
+6. switch window to consumer you can see message<br>
+<img src="https://raw.githubusercontent.com/tarathep/kaka-demo-lab/master/img/cmd_c.PNG" width="500">
